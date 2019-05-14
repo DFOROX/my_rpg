@@ -1,0 +1,16 @@
+item0 = texture: assets/item_sprite/weapon1.png id: 0 type: 1 price: 1 name: scythe stat1: 0 stat2: 3
+item1 = texture: assets/item_sprite/head1.png id: 1 type: 2 price: 1 name: straw hat stat1: 1 stat2: 1
+item2 = texture: assets/item_sprite/chest1.png id: 2 type: 3 price: 1 name: peasant shirt stat1: 1 stat2: 1
+item3 = texture: assets/item_sprite/Staff1.png id: 3 type: 0 price: 10 name: wand stat1: 5 stat2: 20
+item4 = texture: assets/item_sprite/weapon2.png id: 4 type: 1 price: 100 name: mace stat1: 10 stat2: 15
+item5 = texture: assets/item_sprite/head2.png id: 5 type: 2 price: 50 name: leather helmet stat1: 10 stat2: 10
+item6 = texture: assets/item_sprite/chest2.png id: 6 type: 3 price: 250 name: leather chest stat1: 20 stat2: 20
+item7 = texture: assets/item_sprite/Staff2.png id: 7 type: 0 price: 300 name: shining wand stat1: 20 stat2: 50
+item8 = texture: assets/item_sprite/weapon3.png id: 8 type: 1 price: 550 name: sword stat1: 20 stat2: 50
+item9 = texture: assets/item_sprite/head3.png id: 9 type: 2 price: 1000 name: magic hood stat1: 20 stat2: 5
+item10 = texture: assets/item_sprite/chest3.png id: 10 type: 3 price: 800 name: mystic dress stat1: 40 stat2: 10
+item11 = texture: assets/item_sprite/Staff3.png id: 11 type: 0 price: 600 name: huge staff stat1: 10 stat2: 15
+item12 = texture: assets/item_sprite/weapon4.png id: 12 type: 1 price: 700 name: axe stat1: 35 stat2: 40
+item13 = texture: assets/item_sprite/head4.png id: 13 type: 2 price: 800 name: plate helmet stat1: 5 stat2: 20
+item14 = texture: assets/item_sprite/chest4.png id: 14 type: 3 price: 1000 name: plate Armor stat1: 5 stat2: 50
+item15 = texture: assets/item_sprite/Staff4.png id: 15 type: 0 price: 750 name: great staff stat1: 30 stat2: 40
